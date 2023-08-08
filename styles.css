@@ -1,0 +1,15 @@
+body{
+    display: flex;
+}
+
+.card-light{
+    background: #eee;
+    margin: 2em;
+    max-width: 300px;
+    padding: 2em;
+    box-shadow: 0 20px 30px -20px rgba(0,0,0,.4);
+}
+
+img{
+    width: 100%;
+}
