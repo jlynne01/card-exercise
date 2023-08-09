@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KG-2023/card-exercise/issues"
   },
-  "homepage": "https://github.com/KG-2023/card-exercise#readme"
+  "homepage": "https://github.com/KG-2023/card-exercise#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
 }
