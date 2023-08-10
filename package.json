@@ -4,7 +4,7 @@
   "description": "Bootcamp exercise for SASS ",
   "main": "index.js",
   "scripts": {
-    "compile:sass" : "node-sass sass/main.scss css/styles.css"
+    "compile:sass": "node-sass sass/main.scss css/styles.css"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "homepage": "https://github.com/KG-2023/card-exercise#readme",
   "dependencies": {
     "node-sass": "^9.0.0"
-  }
+  },
+  "keywords": [
+    "Bootcamp",
+    "exercise",
+    "for",
+    "SASS"
+  ]
 }
